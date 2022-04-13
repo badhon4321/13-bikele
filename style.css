@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+.hire-me {
+    background-color: orangered;
+}
+
+.bold-korbo {
+    font-size: 40px;
+}
+
+.color-korbo {
+    color: yellowgreen;
+}
+
+.akline-korbo {
+    display: flex;
+    padding: 30px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.cc-gg {
+    padding: 30px;
+    width: 60%;
+    padding-left: 10px;
+}
+
+.bg-cdibo {
+    background-color: aquamarine;
+}
+
+span {
+    color: tomato;
+}
+
+.choto-korbo img {
+    width: 100%;
+}
